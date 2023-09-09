@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "teclado gamer",
+      "price": 525,
+      "description": "Teclado gamer",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Laptop Gamer",
+      "price": 1000,
+      "description": "Best Laptop Gamer",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Mouse Gamer",
+      "price": 100,
+      "description": "Best Mouse Gamer",
+      "inStock": true
+    }
+  ]
+}
