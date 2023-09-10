@@ -1,8 +1,12 @@
-
+import Products from "./components/Products";
+import ProductForm from "./components/ProductForm";
 const App = () => {
   return (
-    <div>App Hola</div>
-  )
-}
+    <>
+      <ProductForm />
+      <Products />
+    </>
+  );
+};
 
-export default App
+export default App;
